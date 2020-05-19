@@ -1,0 +1,93 @@
+{
+  "todo": [
+    {
+      "title": "One piece",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "id": "fSSekNBXv",
+      "stt": 1
+    },
+    {
+      "title": "đẹp trai",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "id": "E7DAPneoF",
+      "stt": 2
+    },
+    {
+      "title": "đẹp trai",
+      "description": "Nhưng rất chăm chỉ",
+      "id": "5mACjwcNc",
+      "stt": 3
+    },
+    {
+      "title": "nấu ăn ngon",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "id": "wJPZ67Ju2",
+      "stt": 4
+    },
+    {
+      "title": "nấu ăn ngon",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "id": "_glMyOyxE",
+      "stt": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Nguyễn Xuân Quyết",
+      "phone": "0357842534",
+      "email": "quyetnxm04120@arena.edu.vn",
+      "password": "$2b$10$HiG.vLoaNqZxt.X/B4SpPOmEbd8aKTDcmtJR5LN6zxDRfNJ3szgcy",
+      "stt": 1,
+      "id": "NXiyxB4fX",
+      "isAdmin": true,
+      "wrongLoginCount": 0,
+      "avatar": "uploads/0f97f8c12fdfdc05ae19917a0be807bc",
+      "avatarUrl": "http://res.cloudinary.com/dd052ipmr/image/upload/v1589858360/ek6n846ppfoyp1akvruv.jpg"
+    },
+    {
+      "name": "Nguyễn Xuân Quyết",
+      "phone": "0357842534",
+      "email": "quyetnxm04120@arena.edu.vns",
+      "password": "$2b$10$sZs1gPOPPSN/1tPsA61PtOAHNz7XUeGmQvMCwkdn7kScFKs0dzSuu",
+      "avatar": "uploads/92eeb9093aded8b83f59c40693a43781",
+      "stt": 2,
+      "id": "cf61yttZM",
+      "isAdmin": true,
+      "wrongLoginCount": 0,
+      "avatarUrl": "http://res.cloudinary.com/dd052ipmr/image/upload/v1589858384/pgkejltijnw9ot5x1lcr.png"
+    },
+    {
+      "name": "Nguyễn Xuân Quyết",
+      "phone": "0357842534",
+      "email": "quyetnxm0ee4120@arena.edu.vn",
+      "password": "$2b$10$tv6X8iR3j1zbDHfMV5mBXuCvABs7948IJmKg6gTErR6WYnNyLr55q",
+      "avatarUrl": "https://res.cloudinary.com/dd052ipmr/image/upload/v1589794813/ldrprjmt2tcsg6kgoeyl.png",
+      "avatar": "",
+      "stt": 3,
+      "id": "2T4jyVd5U",
+      "isAdmin": true,
+      "wrongLoginCount": 0
+    },
+    {
+      "name": "Nguyễn Xuân Quyết",
+      "phone": "0357842534",
+      "email": "quyetnssxm04120@arena.edu.vn",
+      "password": "$2b$10$W3o3o79NJ7m6dQ/4zxUei.gtdwzuRbWLJNqaVwGc.Nh/J1YkkuuWi",
+      "avatarUrl": "http://res.cloudinary.com/dd052ipmr/image/upload/v1589858436/qkdygshipmrcvlmywt5u.jpg",
+      "avatar": "uploads/efb25d8c201a412a095687dcad41666a",
+      "stt": 4,
+      "id": "zttrlXtOd",
+      "isAdmin": true,
+      "wrongLoginCount": 0
+    }
+  ],
+  "transection": [
+    {
+      "userId": "NXiyxB4fX",
+      "bookId": "fSSekNBXv",
+      "id": "mPKT-2zWY",
+      "stt": 1,
+      "isComplete": false
+    }
+  ]
+}
